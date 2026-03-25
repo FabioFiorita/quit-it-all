@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+QuitItAll.app/
+*.dmg
+dmg-staging/
+.DS_Store
